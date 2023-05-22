@@ -1,5 +1,5 @@
 # Full Stack Application with Spring Boot and React //dts 
-a Change as hotfix
+a Change as hotfix in main
 
 
 <img src="react_00_architecture.png" width="300">
